@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Convert the human-readable timestamp in epoch format
 
 #echo "The input must match the following pattern:"
